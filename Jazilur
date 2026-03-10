@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Pekan 4 </title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+
+<body style= "background-color:yellow;">
+<h1 style= "text-align:center; font-size:300%; font-family: courier;"> Day 2 Belajar Coding </h1>
+
+<a href="https://youtu.be/Ibh5Y2A4Ugo?si=NDK6S4WZJNxewoDP">Jazilur Rohman</a>
+
+<table
+  <tr>
+    <th>Nama</th>
+    <th>NIM</th>
+    <th>Kelas</th>
+  </tr>
+  <tr>
+    <td>Jazilur Rohman</td>
+    <td>240631100079</td>
+    <td>4C</td>
+  </tr>
+  </table>
+
+</body>
+</html>
